@@ -22,7 +22,7 @@ def bonus
 
   #code your solution here:
 [:montague][:hero][:status]).to eq("dead")
- 
+[:capulet][:heroine][:status]).to eq("dead") 
 
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
    return epic_tragedy
